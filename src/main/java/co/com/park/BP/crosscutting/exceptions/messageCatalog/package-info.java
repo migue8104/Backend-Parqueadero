@@ -1,0 +1,1 @@
+package co.com.park.BP.crosscutting.exceptions.messageCatalog;
